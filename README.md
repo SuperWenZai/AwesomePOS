@@ -6,6 +6,10 @@
 
 vue2 + webpack + vueRouter + elementUi
 
+# 示例（images）
+
+![image](https://github.com/SupermanWenZai/AwesomePOS/blob/master/src/assets/images/AwesomePOS.png)
+
 # Build Setup
 
 ``` bash
